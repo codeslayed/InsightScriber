@@ -14,18 +14,20 @@
 ### 🏠 [Homepage](https://github.com/codeslayed/InsightScriber)
 
 ### ✨ [Demo](https://github.com/codeslayed/InsightScriber)
+Available on my Linkedin
 
 ## Install
-
+1. Install Required Python Libraries:
 ```sh
 pip install pandas beautifulsoup4 requests nltk textblob openpyxl textstat 
 ```
+2. Download the InsightScribe 360 script from the repository.
 
 ## Author
 
 👤 **Sankhadeep**
 
-* Website: sandy808.medium.com
+* Website: [@sandy808](sandy808.medium.com)
 * Twitter: [@slater808](https://twitter.com/slater808)
 * Github: [@codeslayed](https://github.com/codeslayed)
 * LinkedIn: [@sankhadeep8](https://linkedin.com/in/sankhadeep8)
